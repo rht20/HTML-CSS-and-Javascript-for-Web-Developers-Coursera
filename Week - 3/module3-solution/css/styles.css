@@ -29,12 +29,6 @@ body {
 	background: white;
 }
 
-#menu-heading {
-	font-size: 1.5em;
-	font-weight: bold;
-	text-align: center;
-}
-
 .content {
 	padding: 0 30px 20px 30px;
 	background-color: #d5d8dc;
